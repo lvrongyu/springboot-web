@@ -12,10 +12,10 @@ variables:
   azureSubscription: '03a19f41-3c96-4d1c-b4fe-bdf5e33586da'
 
   # Web app name
-  webAppName: ''
+  webAppName: 'springboot-web'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'UAT'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
